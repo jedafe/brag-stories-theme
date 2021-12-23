@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body.stories,
-body.story {
+body.stories-post {
   background-color: #e7eae9;
   font-family: 'Montserrat', sans-serif;
 
@@ -144,7 +144,7 @@ body.story {
 body.stories {
   padding-top: 8em;
 
-  .story {
+  .stories-title {
     text-align: center;
     padding: 0 1em;
 
@@ -305,7 +305,7 @@ body.stories {
   }
 }
 
-body.blog-post {
+body.stories-post {
 
   .canvas {
     background: $secondary;

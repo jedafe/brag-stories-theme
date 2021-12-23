@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', (event) => {
-  var $stories = $('body.stories, body.story');
+  var $stories = $('body.stories, body.stories-post');
   var $subscribeModal = $stories.find(".modal.subscribe");
   var $subscribeBtn = $stories.find(".btn-subscribe");
 

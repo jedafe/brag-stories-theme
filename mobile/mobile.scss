@@ -23,7 +23,7 @@ body.landing-page {
     }
   }
 
-  &.story {
+  &.stories-post {
     header {
       background-color: $secondary;
     }
@@ -74,7 +74,7 @@ body.landing-page {
   }
 
   &.stories,
-  &.story {
+  &.stories-post {
     .btn-subscribe {
       padding: 0;
 
