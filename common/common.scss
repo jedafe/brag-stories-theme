@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body.stories,
-body.story-post {
+body.stories-post {
   background-color: #e7eae9;
   font-family: 'Montserrat', sans-serif;
 
@@ -305,7 +305,7 @@ body.stories {
   }
 }
 
-body.stories-post {
+body.story-post {
 
   .canvas {
     background: $secondary;
